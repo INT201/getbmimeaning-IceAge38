@@ -16,11 +16,11 @@ function getBMIMeaning(weight, height) {
      else (bmi > 25.0)
       return "Overweight" 
 }
-console.log(calculateBMI(65, 1.8))
-console.log(getBMIMeaning(65, 1.8))
-console.log(calculateBMI(80, 1.7))
-console.log(getBMIMeaning(80, 1.7))
-console.log(calculateBMI(44, 1.6))
-console.log(getBMIMeaning(44, 1.6))
+// console.log(calculateBMI(65, 1.8))
+// console.log(getBMIMeaning(65, 1.8))
+// console.log(calculateBMI(80, 1.7))
+// console.log(getBMIMeaning(80, 1.7))
+// console.log(calculateBMI(44, 1.6))
+// console.log(getBMIMeaning(44, 1.6))
 
 // module.exports = getBMIMeaning
